@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/timeado-timer/static/css/main.5b69c908.css",
+    "main.js": "/timeado-timer/static/js/main.696b377a.js",
+    "static/js/787.3563b4aa.chunk.js": "/timeado-timer/static/js/787.3563b4aa.chunk.js",
+    "static/media/notification.mp3": "/timeado-timer/static/media/notification.3ebe82264a6cc2b261c6.mp3",
+    "static/media/work.png": "/timeado-timer/static/media/work.36e5da96449ab6a02b15.png",
+    "static/media/smile.png": "/timeado-timer/static/media/smile.9584400b2651a39ac463.png",
+    "static/media/completed.png": "/timeado-timer/static/media/completed.4d3f39f5e27e9ab0bc95.png",
+    "static/media/completed-sound.mp3": "/timeado-timer/static/media/completed-sound.df9f2edf8def2f6773ea.mp3",
+    "static/media/break.png": "/timeado-timer/static/media/break.72ad4b2e10e4ed170015.png",
+    "index.html": "/timeado-timer/index.html",
+    "main.5b69c908.css.map": "/timeado-timer/static/css/main.5b69c908.css.map",
+    "main.696b377a.js.map": "/timeado-timer/static/js/main.696b377a.js.map",
+    "787.3563b4aa.chunk.js.map": "/timeado-timer/static/js/787.3563b4aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b69c908.css",
+    "static/js/main.696b377a.js"
+  ]
+}
